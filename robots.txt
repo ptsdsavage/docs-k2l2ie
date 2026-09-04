@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ptsdsavage.github.io/docs-k2l2ie/sitemap.xml
